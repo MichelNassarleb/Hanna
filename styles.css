@@ -453,7 +453,7 @@ button {
 .emem {
   margin-top: 15px;
   font-size: 30px;
-  margin-left: 10px;
+
   text-decoration: underline;
   color: white;
   width: 60%;
@@ -498,7 +498,7 @@ button {
 .projectlist11 {
   text-shadow: 5px 5px 5px rgba(175, 26, 155, 0.925);
   font-size: 35px;
-
+  margin-left: 20px;
   margin-top: 10px;
   color: white;
   width: 12%;
