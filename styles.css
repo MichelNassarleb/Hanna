@@ -447,12 +447,13 @@ button {
 }
 
 .emem {
-  font-size: 23px;
+  font-size: 20px;
   margin-left: 20px;
-  margin-top: 15px;
+  margin-top: 20px;
   text-decoration: underline;
   color: white;
   margin-right: 20px;
+  width: 50%;
 }
 
 .emem:hover {
@@ -503,4 +504,5 @@ button {
 }
 .phone1 {
   display: flex;
+  width: 100%;
 }
