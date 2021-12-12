@@ -428,10 +428,6 @@ button {
   color: white;
 }
 
-.phone {
-  display: flex;
-}
-
 .paraphone {
   font-size: 30px;
   margin-top: 19px;
@@ -451,9 +447,8 @@ button {
 }
 
 .emem {
-  margin-top: 15px;
   font-size: 23px;
-  margin-left: 20px;
+  margin-top: 15px;
   text-decoration: underline;
   color: white;
   width: 60%;
@@ -501,5 +496,12 @@ button {
   margin-left: 20px;
   margin-top: 10px;
   color: white;
-  width: 12%;
+  width: 13%;
+  margin-right: 10px;
+}
+.phone {
+  display: flex;
+}
+.phone1 {
+  display: flex;
 }
